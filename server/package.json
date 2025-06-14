@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Just Few clicks and your food will be ready in few minutes and will be available at your doorstep. Keep eating good and make your mood good also.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samrat Mallick, Arup Kumar Das, Shubhranil Chokroborty",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
